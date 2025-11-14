@@ -78,7 +78,7 @@ Because the high-value customers are worth keeping.
 These are simple but practical steps.
 
 6. Project Visuals
-lineage_graph_mart_customer_cohorts-lineage_graph_mart_customer_cohorts.PNG
+lineage_graph_mart_customer_cohorts-<img src="Assets/lineage_graph_customer_cohorts.png" width="800">
 
 7. What I Learned from This Project
 How to structure a real data pipeline
