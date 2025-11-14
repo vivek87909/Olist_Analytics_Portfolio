@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: olist_raw
+    database: vivek-analytics-project
+    schema: olist_raw
+
+    tables:
+      - name: orders
+      - name: customers
+      - name: items
+      - name: payments
+      - name: orderreviews
+      - name: products
+      - name: sellers
+      - name: product_category_name_translation
+      - name: geolocation
