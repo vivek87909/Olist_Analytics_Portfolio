@@ -79,9 +79,21 @@ These are simple but practical steps.
 
 6. Project Visuals
 
+lineage_graph_mart_seller_performance-<img src="lineage_graph_mart_seller_performance.PNG" width="800">
+
 lineage_graph_mart_customer_cohorts-<img src="lineage_graph_mart_customer_cohorts.PNG" width="800">
 
 lineage_graph_mart_customer_rfm-<img src="lineage_graph_mart_customer_rfm.PNG" width="800">
+
+lineage_graph_mart_monthly_sales-<img src="lineage_graph_mart_monthly_sales.PNG" width="800">
+
+Seller_Performance-<img src="Seller_Performance.PNG" width="800">
+
+Revenue_By_Sales_Month-<img src="Revenue_By_Sales_Month.PNG" width="800">
+
+Customer_Segmentation-<img src="Customer_Segmentation.PNG" width="800">
+
+Customer_Retention-<img src="Customer_Retention.PNG" width="800">
 
 7. What I Learned from This Project
 How to structure a real data pipeline
